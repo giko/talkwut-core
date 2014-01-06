@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context path="/nrivapp-mailer">
+
+    <Resource name="jdbc/rtnriDS" auth="Container" type="javax.sql.DataSource"
+              driverClassName="oracle.jdbc.OracleDriver" username="asap" password="123456"
+              url="jdbc:oracle:thin:@localhost:1521:msslocal" />
+</Context>
